@@ -1,0 +1,26 @@
+<h1>MTG Deckbuilder</h1>
+
+<div ng-controller="allDecks">
+
+    <div ng-repeat="deck in decks">
+
+        <h2>{{ deck.name }}</h2>
+        <p>{{ deck.author }}</p>
+        <p>{{ deck.created }}</p>
+        <p>{{ deck.description }}</p>
+        <p>{{ deck.featuredCard }}</p>
+        <img src="http://mtgimage.com/card/{{ deck.featuredCard }}.jpg" width="50" alt="{{ deck.featuredCard }}">
+
+        <ul>
+
+            <li ng-repeat="card in deck.maindeck">
+
+                <span>{{ card.qty }}</span> x <span>{{ card.name }}</span>
+
+            </li>
+
+        </ul>
+
+    </div>
+
+</div>

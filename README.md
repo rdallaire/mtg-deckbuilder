@@ -1,4 +1,3 @@
-mtg-deckbuilder
-===============
+# MTG Deckbuilder
 
-Magic The Gathering deckbuilder built with AngularJS
+Work in progress

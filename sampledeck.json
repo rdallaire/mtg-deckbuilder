@@ -1,0 +1,39 @@
+{
+    "name": "affinity and beyond",
+    "format": "Modern",
+    "author": "Ross",
+    "created": "2014-12-09T08:00:00.000Z",
+    "updated": "2014-12-09T08:00:00.000Z",
+    "tags": [ "test", "test", "test", "test" ],
+    "description": "Awesome deck",
+    "commander": "na",
+    "featuredCard": "Mox Opal",
+    "maindeck": [
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 }
+    ],
+    "sideboard": [
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 },
+        { "name": "Mox Opal", "qty": 4 }
+    ]
+}
